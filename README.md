@@ -1,2 +1,2 @@
 # TryHackMe
-Tryhackme lab notes and writeups
+TryHackMe lab notes and writeups
